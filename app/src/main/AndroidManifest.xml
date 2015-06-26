@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.joaquin.charliesapp" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".HomeActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MoneyActivity"
+            android:label="@string/title_activity_money"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".MathActivity"
+            android:label="@string/title_activity_math"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".ClockActivity"
+            android:label="@string/title_activity_clock"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".SpellActivity"
+            android:label="@string/title_activity_spell"
+            android:screenOrientation="portrait" >
+        </activity>
+
+    </application>
+
+</manifest>

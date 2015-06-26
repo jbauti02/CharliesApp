@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Charlie\'s App</string>
+    <string name="home_title">Select Your Difficulty and Category!</string>
+    <string name="money">Money</string>
+    <string name="math">Math</string>
+    <string name="clock">Clock</string>
+    <string name="spelling">Spelling</string>
+    <string name="science">Science</string>
+    <string name="words">Words</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="money_question">How much money is this?</string>
+    <string name="prev">Prev</string>
+    <string name="next">Next</string>
+    <string name="flip">Tap Image for Answer!</string>
+    <string name="diff_key">Difficult Key</string>
+    <string name="flip_answer">Answer Below!</string>
+    <string name="flip_math_answer">Tap Image to Flip!</string>
+    <string name="submit_clock_text">Submit!</string>
+    <string name="submit_spell_text">Submit!</string>
+    <string name="submit_clock_answer">Submit For Answer!</string>
+    <string name="submit_spell_answer">Submit For Answer!</string>
+    <string name="error_below">Error Below!</string>
+    <string name="not_clock_answer">Not The Answer!</string>
+    <string name="not_spell_answer">Word Not Spelled Right!</string>
+    <string name="yay">Yay!!!</string>
+    <string name="correct">You Are Correct!</string>
+    <string name="clock_blank_error">Please enter the time!</string>
+    <string name="spell_blank_error">Please enter the word!</string>
+    <string name="incorrect">You Are Incorrect! Please try again!</string>
+    <string name="clock_hint">h:mm</string>
+    <string name="spell_hint">Touch Here to Type Your Word!</string>
+    <string name="spell_title">Spell This Word!</string>
+    <string name="title_activity_money">MoneyActivity</string>
+    <string name="title_activity_math">MathActivity</string>
+    <string name="title_activity_clock">ClockActivity</string>
+    <string name="title_activity_spell">SpellActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_science">ScienceActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
